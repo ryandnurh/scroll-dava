@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Task_3</string>
+
+    <string name="title">E-Canteen</string>
+
+    <string name="food_1">Bakso</string>
+    <string name="food_2">Mie Ayam</string>
+    <string name="food_3">Soto</string>
+    <string name="food_4">Nasi Goreng</string>
+    <string name="food_5">Nasi Uduk</string>
+
+    <string name="rupiah">Rp. %d</string>
+    <string name="total">Total Bayar :</string>
+    <string name="add">Tambah sebagai pesanan?</string>
+
+    <string name="story_1">
+        hidangan khas Indonesia berupa bola daging yang terbuat dari campuran daging
+        sapi giling dan tepung tapioka, disajikan dalam kuah kaldu yang
+        gurih dengan tambahan mi, tahu, dan sayuran.
+    </string>
+
+    <string name="story_2">
+        hidangan mi yang lezat dengan potongan daging ayam yang dimasak dengan bumbu khas,
+        biasanya disajikan dengan kuah kaldu gurih, sayuran segar,
+        dan taburan daun bawang serta bawang goreng.
+    </string>
+
+    <string name="story_3">
+        hidangan sup tradisional Indonesia yang berisi daging (biasanya ayam atau sapi),
+        dengan kaldu beraroma rempah,dan dilengkapi dengan sayuran, bihun,
+        dan berbagai pelengkap seperti telur rebus, jeruk nipis, dan sambal,
+        Rasanya gurih dan segar.
+    </string>
+
+    <string name="story_4">
+        hidangan khas Indonesia yang terdiri dari nasi yang digoreng dengan bumbu-bumbu
+        seperti bawang merah, bawang putih, kecap manis,dan cabai, serta sering
+        ditambahkan bahan tambahan seperti telur, ayam, atau udang, memberikan
+        cita rasa gurih dan sedikit pedas.
+    </string>
+
+    <string name="story_5">
+        hidangan khas Indonesia yang terdiri dari nasi yang dimasak dengan santan dan
+        rempah-rempah, memberikan aroma harum dan rasa gurih. Biasanya disajikan dengan
+        lauk-pauk seperti ayam goreng, tempe, telur, dan sambal.
+    </string>
+
+</resources>
